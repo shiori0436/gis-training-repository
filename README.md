@@ -1,1 +1,3 @@
 # gis-training-repository
+
+ようこそ
